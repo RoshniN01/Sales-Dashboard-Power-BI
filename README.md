@@ -5,7 +5,7 @@ An interactive sales dashboard developed using Microsoft Power BI to analyze sal
 
 ## Dashboard Preview
 
-![Super Store Sales Dashboard](dashboard.png)
+![Super Store Sales Dashboard](dashboard.jpg)
 
 ## Key Features
 - **KPI Analysis:** Tracks total sales, profit, order volume, and shipping days.
